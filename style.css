@@ -1,0 +1,27 @@
+
+#pyro {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    filter: blur(5px);
+  }
+
+  .logo {
+    width: 50vh;
+    height: 50vh;
+  }
+
+  .scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: 0,rem;
+  }
+
+.text {
+    color: white !important;
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
