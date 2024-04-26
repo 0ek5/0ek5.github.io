@@ -10,8 +10,9 @@
   }
 
   .logo {
-    width: 50vh;
-    height: 50vh;
+    width: 30vh;
+    height: 30vh;
+    margin-top: 60px;
   }
 
   .scrollspy-example {
@@ -24,4 +25,8 @@
     color: white !important;
     padding-left: 20vh;
     padding-right: 20vh;
+}
+
+img-fluid {
+  padding: 50px;
 }
