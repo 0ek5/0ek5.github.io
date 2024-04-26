@@ -27,6 +27,6 @@
     padding-right: 20vh;
 }
 
-img-fluid {
-  padding: 50px;
+.img-pad {
+  margin: 5vh;
 }
