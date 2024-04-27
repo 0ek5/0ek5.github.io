@@ -42,3 +42,18 @@
 .nav-link {
   color: #fb0505;
 }
+
+#forsvundet:target {
+  outline: 5px solid red; /* Corrected the outline property */
+  padding: 20px;
+  border: 10px solid #fb0505; /* Added 'solid' to specify the border style */
+}
+
+a {
+color: white;
+font-weight: bold;
+}
+
+a:hover {
+  color: red !important;
+}
