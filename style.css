@@ -5,9 +5,9 @@
 }
 
 .logo {
-  width: 30vh; /* Responsive logo size */
+  width: 30vh;
   height: auto;
-  margin-top: 60px; /* Margin to push down from top */
+  margin-top: 60px;
 }
 
 .text {
@@ -44,9 +44,9 @@
 }
 
 #forsvundet:target {
-  outline: 5px solid red; /* Corrected the outline property */
+  outline: 5px solid red;
   padding: 20px;
-  border: 10px solid #fb0505; /* Added 'solid' to specify the border style */
+  border: 10px solid #fb0505;
 }
 
 a {
